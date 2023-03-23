@@ -1,7 +1,14 @@
 #include <stdio.h>
 /**
 * main - causes an infinite loop
-* Return: 0
+* main - causes an infinite loop
+* main - causes an infinite loop
+* main - causes an infinite loop
+* main - causes an infinite loop
+* loops in c are awesome
+* having fun with c
+* * main - causes an infinite loop
+ * Return: 0
 */
 int main(void)
 {
