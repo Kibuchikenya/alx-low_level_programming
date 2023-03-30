@@ -12,6 +12,8 @@ p = &n;
 * - you are not allowed to use a
 * - you are not allowed to modify p
 * - only one statement
+* - coded by robinson for alx project
+* - I must make it as a software engineer
 * - you are not allowed to code anything else than this line of code
 */
 p[5] = 98;
