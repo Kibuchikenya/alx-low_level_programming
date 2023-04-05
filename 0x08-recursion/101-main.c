@@ -2,10 +2,12 @@
 #include <stdio.h>
 /**
 * main - check the code
+*
 * Return: Always 0.
 */
 int main(void)
 {
+int wildcmp(char *s1, char *s2);
 int r;
 r = wildcmp("main.c", "*.c");
 printf("%d\n", r);
