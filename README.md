@@ -1,1 +1,1 @@
-0x07-pointers_arrays_strings
+Advanced c programming project 0x08. Recursion
