@@ -1,10 +1,9 @@
-#include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
+int _atoi(char *s)
 
-int _isdigit(int c)
 {
-    return isdigit(c);
+    return atoi(s);
 }
